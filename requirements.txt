@@ -1,0 +1,9 @@
+expertai-nlapi
+SpeechRecognition
+pyaudio
+soundfile
+audio
+pandas
+audiosegment
+sounddevice
+tkinter
